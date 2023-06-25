@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFEoylX6wdGrbAja8znr9PdVaSQrNa+4qwXl+EzIHJQ4RID6IFLAOt0xK8b+uJ1qbBo/xknvRPFuSXM92NTUew==",
+  "success": true,
+  "projectFilePath": "F:\\ETC\\Portfolio Stuff\\ChooseYourOwnAdventure\\ChooseYourOwnAdventure\\ChooseYourOwnAdventure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nvill\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\nvill\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\nvill\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\nvill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

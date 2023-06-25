@@ -1,0 +1,15 @@
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.exe
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.deps.json
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.runtimeconfig.json
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.dll
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\net6.0\ChooseYourOwnAdventure.pdb
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.csproj.AssemblyReference.cache
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.GeneratedMSBuildEditorConfig.editorconfig
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.AssemblyInfo.cs
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.dll
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\refint\ChooseYourOwnAdventure.dll
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.pdb
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ChooseYourOwnAdventure.genruntimeconfig.cache
+F:\ETC\Portfolio Stuff\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\net6.0\ref\ChooseYourOwnAdventure.dll
